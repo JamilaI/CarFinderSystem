@@ -9,7 +9,6 @@ Features:
 2- Decision Tree: The application uses a rule-based expert system implemented with experta, making car recommendations based on user preferences.
 3- Customizable Preferences: Users can choose the car's manufacturing country, car type (e.g., sport, popular cars, station, high range), fuel type (e.g., petrol, electric), and budget range to receive tailored recommendations.
 4- Random Suggestion: If no suitable car matches the user's preferences, Car Finder provides a random car suggestion from a list of popular cars.
-<img src="C:\Users\gateway\Pictures\Picture1.png" height="60" width="60" >
 
 
 Installation:
