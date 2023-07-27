@@ -1,7 +1,7 @@
 Car Finder
 introduction:
 Car Finder is a simple Python application designed to help users find the right car based on their preferences.
-It was built using the tkinter library for creating the graphical user interface (GUI) and experta for implementing a rule-based expert system.
+It was built using the Tkinter library for creating the graphical user interface (GUI) and experta for implementing a rule-based expert system.
 The application allows users to specify their desired car's manufacturing country, car type, fuel type, and budget, and based on these preferences, it recommends a suitable car using a decision tree.
 
 Features:
@@ -9,10 +9,11 @@ Features:
 2- Decision Tree: The application uses a rule-based expert system implemented with experta, making car recommendations based on user preferences.
 3- Customizable Preferences: Users can choose the car's manufacturing country, car type (e.g., sport, popular cars, station, high range), fuel type (e.g., petrol, electric), and budget range to receive tailored recommendations.
 4- Random Suggestion: If no suitable car matches the user's preferences, Car Finder provides a random car suggestion from a list of popular cars.
+<img src="C:\Users\gateway\Pictures\Picture1.png" height="60" width="60" >
 
 
 Installation:
-To run the Car Finder application, it was implemented using pycharm 2022.1.2 (Community Edition) on the interpreter python 3.9
+To run the Car Finder application, was implemented using pycharm 2022.1.2 (Community Edition) on the interpreter Python 3.9
 you'll need Python and a few packages. Install the required dependencies using the following command:
 pip install experta pillow
 
